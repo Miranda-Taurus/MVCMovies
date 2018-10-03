@@ -1,0 +1,11 @@
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\bin\Debug\netcoreapp2.0\CoreMVCWebApp.deps.json
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\bin\Debug\netcoreapp2.0\CoreMVCWebApp.runtimeconfig.json
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\bin\Debug\netcoreapp2.0\CoreMVCWebApp.runtimeconfig.dev.json
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\bin\Debug\netcoreapp2.0\CoreMVCWebApp.dll
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\bin\Debug\netcoreapp2.0\CoreMVCWebApp.pdb
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\obj\Debug\netcoreapp2.0\CoreMVCWebApp.csproj.CoreCompileInputs.cache
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\obj\Debug\netcoreapp2.0\CoreMVCWebApp.AssemblyInfoInputs.cache
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\obj\Debug\netcoreapp2.0\CoreMVCWebApp.AssemblyInfo.cs
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\obj\Debug\netcoreapp2.0\CoreMVCWebApp.dll
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\obj\Debug\netcoreapp2.0\CoreMVCWebApp.pdb
+C:\Users\A552110\Documents\Visual Studio 2017\Projects\CoreMVCWebApp\CoreMVCWebApp\obj\Debug\netcoreapp2.0\CoreMVCWebApp.csprojAssemblyReference.cache
